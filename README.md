@@ -88,7 +88,7 @@ Follow these steps to establish a local instance of the console on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/hira299/browser-forensics.git
+git clone https://github.com/hira299/browser-forensics-reconstruction.git
 cd browser-forensics
 ```
 
