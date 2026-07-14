@@ -51,9 +51,9 @@ The application is engineered as a highly optimized full-stack TypeScript enviro
 ```
                   ┌──────────────────────────────────────────────┐
                   │            Vite React SPA Frontend           │
-                  │   - Interactive Timeline Visualization     │
-                  │   - Session Detail & Threat Metrics        │
-                  │   - Interactive Investigator Chat Console  │
+                  │   - Interactive Timeline Visualization       │
+                  │   - Session Detail & Threat Metrics          │
+                  │   - Interactive Investigator Chat Console    │
                   └──────────────────────┬───────────────────────┘
                                          │ JSON Requests
                                          ▼
