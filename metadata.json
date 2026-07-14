@@ -1,0 +1,6 @@
+{
+  "name": "Browser Forensics and User Activity Reconstruction",
+  "description": "An advanced forensic platform to analyze browser logs, reconstruct session timelines, and generate detailed incident hypotheses using heuristic detectors and Gemini AI deep analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
